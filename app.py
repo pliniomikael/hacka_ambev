@@ -5,6 +5,7 @@ import atexit
 from datetime import datetime
 import serial
 
+
 app = Flask(__name__)
 CORS(app)
 
@@ -24,7 +25,8 @@ def index():
     data = now.strftime("%d/%m/%Y")
     hora = now.strftime("%H:%M:%S")
     value = arduino.readline()
-    alcool = str(value)
+
+    alcool = float(value)
 
     return jsonify(
         {

@@ -1,6 +1,8 @@
-## 💻 Projeto
+<h1 align="center">
+    <img alt="DevRadar" title="#delicinha" src="https://raw.githubusercontent.com/itsaleplets/hackathonAmbev/master/src/images/BeerCheckLogo.svg?sanitize=true" width="200px" />
+</h1>
 
-A Beer Check é uma inovação tecnológica que utiliza sensoriamento em cascata a fibra óptica para criar a cerveja na medida certa.  Nossos sensores dispõem de características específicas que nenhuma outra tecnologia pode oferecer, como: análise simultânea do teor alcoólico, CO² e O² dissolvido no líquido em altas temperatura acima de 90º, além disso, nossa solução é de baixo custo e monitoramento remoto.
+🍻 🍺 A Beer Check é uma inovação tecnológica que utiliza sensoriamento em cascata a fibra óptica para criar a cerveja na medida certa.  Nossos sensores dispõem de características específicas que nenhuma outra tecnologia pode oferecer, como: análise simultânea do teor alcoólico, CO² e O² dissolvido no líquido em altas temperatura acima de 90º, além disso, nossa solução é de baixo custo e monitoramento remoto.
 
 
 [Link para o Front-end](https://github.com/itsaleplets/hackathonAmbev)
